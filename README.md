@@ -1,5 +1,5 @@
 # Study Notes
-A list of materials for learning and working
+A list of materials for study and work
 
 ## Mobile Development
 
