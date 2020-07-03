@@ -13,7 +13,7 @@ A list of materials for study and work
 - Combine
 - Data Trasferred between view controllers
 - Core Graphics & Core Animation
-- Lottie <a href="http://airbnb.io/lottie/#/README"></a>
+- <a href="http://airbnb.io/lottie/#/README">Lottie</a>
 - Design Patterns
    - Singleton   ✅
    - MVC   ✅
