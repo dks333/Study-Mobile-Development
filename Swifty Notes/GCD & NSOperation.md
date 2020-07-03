@@ -2,7 +2,7 @@
 
 ## GCD
 
-- Serial anc concurrent
+- Serial and concurrent
 - Synchronous method returns control to the caller only after the task is completed
 - Asychronous method returns control to the caller immediately
 - Three main types of queues
