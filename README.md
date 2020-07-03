@@ -6,7 +6,8 @@ A list of materials for learning and working
 ### iOS
 - UIKit   ✅  
 - ARKit(Image Tracking)   ✅
-- Swift   ✅
+- Swift  🔒
+    - GCD & NSOperation
 - RxSwift 
 - Combine
 - Data Trasferred between view controllers
@@ -22,4 +23,5 @@ A list of materials for learning and working
 
 
 ## Remark
-✅  =  I have either used or learned about
+✅ = I have either used or learned about
+🔒 = Studying currently
