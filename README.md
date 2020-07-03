@@ -4,10 +4,11 @@ A list of materials for study and work
 ## Mobile Development
 
 ### iOS
-- [x] UIKit     
-- [ ] ARKit(Image Tracking)  
-- [... ] Swift  🔒
-    - GCD & NSOperation
+- UIKit     
+- ARKit(Image Tracking)  
+- Swift  🔒
+    - GCD & NSOperation ✅
+    - ARC ✅
 - RxSwift 
 - Combine
 - Data Trasferred between view controllers
