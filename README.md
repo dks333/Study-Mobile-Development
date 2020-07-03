@@ -4,10 +4,11 @@ A list of materials for study and work
 ## Mobile Development
 
 ### iOS
-- UIKit   ✅  
-- ARKit(Image Tracking)   ✅
+- UIKit     
+- ARKit(Image Tracking)  
 - Swift  🔒
-    - GCD & NSOperation
+    - GCD & NSOperation ✅
+    - ARC ✅
 - RxSwift 
 - Combine
 - Data Trasferred between view controllers
@@ -20,6 +21,15 @@ A list of materials for study and work
 
 ### Android
  - Kotlin
+ 
+### Hybrid 
+- Flutter
+- React Native
+
+### UI/UX
+- [x] Figma 
+- [x] Adobe Illustrator 
+- [x] Adobe Xd
 
 
 ## Remark
