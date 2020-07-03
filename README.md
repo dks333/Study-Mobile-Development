@@ -9,7 +9,7 @@ A list of materials for study and work
 - Swift  🔒
     - [GCD & NSOperation](Swifty&#32;Notes/GCD&#32;&&#32;NSOperation.md)  ✅
     - [Memory Management](Automatic&#32;Reference&#32;Counting&#32;(ARC).md)  ✅
-- RxSwift 
+- RxSwift 🔒
 - Combine
 - Data Trasferred between view controllers
 - Core Graphics & Core Animation
