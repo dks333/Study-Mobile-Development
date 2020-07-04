@@ -21,6 +21,7 @@ A list of materials for study and work
 - Design Patterns
    - Singleton   &nbsp; &nbsp; ✅
    - MVC   &nbsp; &nbsp; ✅
+   - MVVM (associated with RxSwift)
    - VIPER-esque Architecture
 
 ### Android
