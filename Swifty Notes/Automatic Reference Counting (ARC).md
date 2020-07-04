@@ -4,7 +4,7 @@
 
 ## How it works
 
-- Keeping counting the number of strong references
+- Keeping the count of strong references
 - The instance is not deallocated until the last strong reference is broken
 
 ## Retain Cycle (Strong Reference Cycle)
