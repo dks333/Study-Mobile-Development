@@ -15,8 +15,8 @@
   - Weak references
   - Unowned References
     - Alwasys refers to an instance that has not been deallocated
-    - Runtime error occurs when access unwed reference after the instance has been deallocated
-    - An unowed optional reference can be nil
+    - Runtime error occurs when access unowned reference after the instance has been deallocated
+    - An unowned optional reference can be nil
 
 
 
