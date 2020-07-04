@@ -12,6 +12,9 @@ A list of materials for study and work
 - RxSwift 🔒
 - Combine
 - Data Trasferred between view controllers
+    - Delegate  ✅
+    - Segues  ✅
+    - Notifications
 - Core Graphics & Core Animation
 - <a href="http://airbnb.io/lottie/#/README">Lottie</a>
 - Design Patterns
