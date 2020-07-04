@@ -30,9 +30,9 @@ A list of materials for study and work
 - React Native
 
 ### UI/UX
-- [x] Figma 
-- [x] Adobe Illustrator 
-- [x] Adobe Xd
+- Figma  ✅
+- Adobe Illustrator  ✅
+- Adobe Xd  ✅
 
 
 ## Remark
