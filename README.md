@@ -19,6 +19,8 @@ A list of materials for study and work
     - Notifications
 - Core Graphics
 - Core Animation
+    - Metal
+    - Open GL
 - <a href="http://airbnb.io/lottie/#/README">Lottie</a>
 - Design Patterns
    - Singleton   &nbsp; &nbsp; ✅
