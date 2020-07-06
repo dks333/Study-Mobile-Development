@@ -13,7 +13,7 @@ A list of materials for study and work
 - Reactive Programming
     - RxSwift 🔒
     - Combine
-- Data Trasferred between view controllers
+- Ways of data Trasferred between view controllers
     - Delegate  &nbsp; &nbsp; ✅
     - Segues  &nbsp; &nbsp;  ✅
     - Notifications
