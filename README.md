@@ -6,7 +6,7 @@ A list of materials for study and work
 ### Published Applications
 App Name | Description | Rating
 -------- | ----------  | ----------
-<a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> | Augmented Reality Reminder | ⭐⭐⭐⭐⭐ (Last Updates: 07/06/2020)
+<a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> | Augmented Reality Reminder | 5.0/5.0 ⭐ (Last Updates: 07/06/2020)
 
 
 ### iOS
