@@ -1,6 +1,6 @@
 # VIPER Design Pattern
 
-! [VIPER] (/Swifty&#32;Notes/VIPER.png)
+! [VIPER] (/Design&#32;Patterns/VIPER.png)
 
 
 
