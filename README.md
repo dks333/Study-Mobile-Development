@@ -32,7 +32,7 @@ App Name | Description | ⭐&nbsp;  Rating
 - Design Patterns
    - Singleton   &nbsp; &nbsp; ✅
    - MVC   &nbsp; &nbsp; ✅
-   - MVVM (associated with RxSwift)
+   - MVVM (associated with RxSwift) ✅
    - VIPER-esque Architecture
 
 ### Android
