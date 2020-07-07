@@ -42,10 +42,6 @@ Making serialization of data/event streams and asynchronous tasks more convenien
 ## Example: Tableview with RxSwift
 
 ![RxSwift Example](/Swifty&#32;Notes/RxSwift&#32;Example.png)
-<img src="Swifty Notes/RxSwift Example.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
 
 
 
