@@ -1,5 +1,5 @@
 # Study Notes
-Record my journey on Mobile Development
+Record my journey of mobile development
 
 ## Mobile Development
 
