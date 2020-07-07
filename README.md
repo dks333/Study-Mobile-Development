@@ -13,7 +13,8 @@ Content | Progress
 Singleton |  &nbsp; &nbsp; &nbsp; ✅
 MVC |  &nbsp; &nbsp; &nbsp; ✅
 MVVM (associated with RxSwift) |  &nbsp; &nbsp; &nbsp; ✅
-VIPER Architecture | 
+MVP | 
+VIPER Architecture |  &nbsp; &nbsp; &nbsp; 🔒
 
 ## iOS
 Type | Content | Progress
