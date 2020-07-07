@@ -1,16 +1,17 @@
 # Study Mobile Development
 Welcome to my journey path
 
-## Mobile Development
-
-### Published Applications &nbsp; 🎉
+## Published Applications &nbsp; 🎉
 App Name | Description | ⭐&nbsp;  Rating
 -------- | ----------  | ----------
 <a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> |       Augmented Reality Reminder       | **5.0/5.0** 
 <a href="https://github.com/dks333/MarKetUp">MarKetUp</a> | Stock Market Simulator(Real-time & Virtual Cash) | **4.5/5.0** 
 
 
-### iOS
+## iOS
+Type | Content | Progress
+---- | ------- | ---------
+Swift | UIKit | &nbsp; &nbsp; ✅
 - UIKit    &nbsp; &nbsp; ✅
 - ARKit(Image Tracking)   &nbsp; &nbsp; ✅
 - Swift  🔒
@@ -35,14 +36,14 @@ App Name | Description | ⭐&nbsp;  Rating
    - MVVM (associated with RxSwift) ✅
    - VIPER-esque Architecture
 
-### Android
+## Android
  - Kotlin
  
-### Hybrid 
+## Hybrid 
 - Flutter
 - React Native
 
-### UI/UX
+## UI/UX
 - Figma  &nbsp; &nbsp;  ✅
 - Adobe Illustrator  &nbsp; &nbsp;  ✅
 - Adobe Xd  &nbsp; &nbsp;  ✅
