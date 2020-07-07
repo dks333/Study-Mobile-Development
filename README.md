@@ -3,7 +3,7 @@ A list of materials for study and work
 
 ## Mobile Development
 
-### Published Applications
+### Published Applications &nbsp; 🎉
 App Name | Description | ⭐&nbsp;  Rating
 -------- | ----------  | ----------
 <a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> | Augmented Reality Reminder | **5.0/5.0** 
