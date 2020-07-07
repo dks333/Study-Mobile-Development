@@ -48,6 +48,6 @@ App Name | Description | ⭐&nbsp;  Rating
 - Adobe Xd  &nbsp; &nbsp;  ✅
 
 
-## Remark
+## Annotations
 ✅  &nbsp; = I have either used or learned about
 🔒  &nbsp; = Studying currently
