@@ -18,5 +18,14 @@
     - Runtime error occurs when access unowned reference after the instance has been deallocated
     - An unowned optional reference can be nil
 
+## Types that are managed by ARC (Reference Type)
 
+- Class 
+- Closure
 
+## Types that are NOT managed by ARC (Value Type)
+
+- Basic types, like Bool, Int, etc.
+- Struct
+- Enum
+- Tuple
