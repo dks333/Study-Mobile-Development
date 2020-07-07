@@ -41,7 +41,7 @@ Making serialization of data/event streams and asynchronous tasks more convenien
 
 ## Example: Tableview with RxSwift
 
-![RxSwift Example](/Users/apple/Desktop/📖/Study-Notes/Swifty Notes/RxSwift Example.png)
+![RxSwift Example](Swifty Notes/RxSwift Example.png)
 
 
 
