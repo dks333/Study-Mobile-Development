@@ -1,5 +1,5 @@
 # Study Notes
-A list of materials for study and work
+Record my journey on Mobile Development
 
 ## Mobile Development
 
