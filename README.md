@@ -4,9 +4,9 @@ A list of materials for study and work
 ## Mobile Development
 
 ### Published Applications
-App Name | Description | Rating &nbsp; ⭐ (Last Updates)
+App Name | Description | Rating &nbsp; ⭐ 
 -------- | ----------  | ----------
-<a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> | Augmented Reality Reminder | **5.0/5.0**  (07/06/2020)
+<a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> | Augmented Reality Reminder | **5.0/5.0** 
 
 
 ### iOS
