@@ -6,7 +6,7 @@ A list of materials for study and work
 ### Published Applications
 App Name | Description
 -------- | ----------
-ARminder | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder</a>
+<a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> | Augmented Reality Reminder
 
 
 ### iOS
