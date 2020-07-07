@@ -4,8 +4,8 @@ Welcome to my journey path
 ## Published Applications &nbsp; 🎉
 App Name | Description | ⭐&nbsp;  Rating
 -------- | ----------  | ----------
-<a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> |       Augmented Reality Reminder       | **5.0/5.0** 
-<a href="https://github.com/dks333/MarKetUp">MarKetUp</a> | Stock Market Simulator(Real-time & Virtual Cash) | **4.5/5.0** 
+ARminder | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder </a>      | **5.0/5.0** 
+MarKetUp | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(Real-time & Virtual Cash)</a> | **4.5/5.0** 
 
 ## Design Patterns
 Content | Progress
@@ -29,6 +29,7 @@ Swift | Core Graphics |
 Reactive Programming | [RxSwift](Swifty&#32;Notes/RxSwift.md) | &nbsp; &nbsp; &nbsp; 🔒
 Reactive Programming | Combine | 
 Third Party | <a href="http://airbnb.io/lottie/#/README">Lottie</a> |
+Third Party | <a href="https://github.com/SDWebImage/SDWebImage">Lottie</a> |
 
 ## Android
  - Kotlin
