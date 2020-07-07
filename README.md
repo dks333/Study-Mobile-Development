@@ -1,5 +1,5 @@
-# Study Notes
-Journey path ⬇️
+# Study Mobile Development
+Welcome to my journey path
 
 ## Mobile Development
 
@@ -7,6 +7,7 @@ Journey path ⬇️
 App Name | Description | ⭐&nbsp;  Rating
 -------- | ----------  | ----------
 <a href="https://apps.apple.com/tt/app/arminder/id1521786711">ARminder</a> | Augmented Reality Reminder | **5.0/5.0** 
+<a href="https://github.com/dks333/MarKetUp">MarKetUp</a> | Stock Market Simulator(Real-time & Virtual Cash) | **4.5/5.0** 
 
 
 ### iOS
