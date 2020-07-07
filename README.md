@@ -27,7 +27,7 @@ Swift | Ways of transferring data between VC (Delegate & Segues) | &nbsp; &nbsp;
 Swift | Core Animation | &nbsp; &nbsp; &nbsp; ✅
 Swift | Core Graphics | 
 Reactive Programming | [RxSwift](Swifty&#32;Notes/RxSwift.md) | &nbsp; &nbsp; &nbsp; 🔒
-Swfit | Combine | 
+Reactive Programming | Combine | 
 Third Party | <a href="http://airbnb.io/lottie/#/README">Lottie</a> |
 
 ## Android
