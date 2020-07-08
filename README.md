@@ -43,6 +43,7 @@ Third Party | <a href="https://github.com/SDWebImage/SDWebImage">SDWebImage</a> 
 - Figma  &nbsp; &nbsp;  ✅
 - Adobe Illustrator  &nbsp; &nbsp;  ✅
 - Adobe Xd  &nbsp; &nbsp;  ✅
+- Adobe Photoshop
 
 
 ## Annotations
