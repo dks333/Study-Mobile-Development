@@ -29,7 +29,7 @@ Swift | Core Animation | &nbsp; &nbsp; &nbsp; ✅
 Swift | Core Graphics | &nbsp; &nbsp; &nbsp; 🔒
 Reactive Programming | [RxSwift](Swifty&#32;Notes/RxSwift.md) | &nbsp; &nbsp; &nbsp; 🔒
 Reactive Programming | Combine | 
-Third Party | <a href="http://airbnb.io/lottie/#/README">Lottie</a> | &nbsp; &nbsp; &nbsp; ✅
+Third Party | <a href="http://airbnb.io/lottie/#/README">Lottie</a> | &nbsp; &nbsp; &nbsp; 🔒
 Third Party | <a href="https://github.com/SDWebImage/SDWebImage">SDWebImage</a> |
 
 ## Android
