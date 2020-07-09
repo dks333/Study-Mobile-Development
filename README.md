@@ -2,10 +2,10 @@
 Welcome to my journey path
 
 ## Published Applications &nbsp; 🎉
-App Name | Description | ⭐&nbsp;  Rating
--------- | ----------  | ----------
-ARminder | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder </a>      | **5.0/5.0** 
-MarKetUp | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(Real-time & Virtual Cash)</a> | **4.5/5.0** 
+App Name | Description 
+-------- | ----------  
+ARminder | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder </a>     
+MarKetUp | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(Real-time & Virtual Cash)</a> 
 
 ## Design Patterns
 Content | Progress
