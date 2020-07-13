@@ -7,6 +7,12 @@ App Name | Description
 ARminder | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder </a>     
 MarKetUp | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(Real-time & Virtual Cash)</a> 
 
+## Projects 🛠
+Project Name | Description 
+-------- | ----------  
+ARelax | <a href="https://github.com/dks333/ARelax">Help you stretch your neck druing work or studying (AR)</a>         
+KDInstagram | <a href="">Clone **Instagram** App using three different design patterns (MVC, MVVM, VIPER)</a> 
+
 ## Design Patterns
 Content | Progress
 ------- | ---------
