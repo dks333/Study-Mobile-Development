@@ -33,7 +33,7 @@
 
 - Make your codes scalable, easier to test each layer
 - Make your ViewController lightweight
-- BUild the app based on use cases or behaviors
+- Build the app based on use cases or behaviors
 
 ## Memory management
 
