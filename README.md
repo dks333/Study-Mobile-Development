@@ -11,7 +11,7 @@ MarKetUp | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(R
 Project Name | Description | Progress
 -------- | ---------- | --------------
 ARelax | <a href="https://github.com/dks333/ARelax">Help you stretch your neck druing work or studying (AR)</a> |  &nbsp; &nbsp; &nbsp; ✅ 
-KDInstagram | <a href="">Clone **Instagram** App using three different design patterns (MVC, MVVM, VIPER)</a> | &nbsp; &nbsp; &nbsp; 🔒
+KDInstagram | <a href="https://github.com/dks333/KDInstagram">Clone **Instagram** App using three different design patterns (MVC, MVVM, VIPER)</a> | &nbsp; &nbsp; &nbsp; 🔒
 
 ## Design Patterns
 Content | Progress
