@@ -46,12 +46,6 @@ Third Party | <a href="https://github.com/texturegroup/texture/">Texture Framewo
 | :----: | :-----: | :------: |
 | Kotlin |         |          |
 
-Type | Content | Progress
-
------ | ---------- | ------------
-
-Kotlin |  | 
-
 ## Hybrid 
 - Flutter
 - React Native
