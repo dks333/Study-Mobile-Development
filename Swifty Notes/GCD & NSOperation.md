@@ -36,7 +36,7 @@ NSTimer requires an active run loop, when initialized in Main Thread it automati
 - NSTimer needs one live NSRunLoop to execute it’s events. In main thread, the NSRunLoop is always live and will never stop until the app is terminated, but in other threads, you must invoke **run()** to active the NSRunLoop.
 - NSTimer must invoke invalidate() to release the current timer, otherwise, the timer will retain a strong reference of the current instance of target, and it will remain in memory until **invalidate()** invoked or app terminated;
 - NSTimer must created and invalidated in the same thread, and a lot of times, we may forget that.
-[GCD & Timer](http://www.acttos.org/2016/08/NSTimer-and-GCD-Timer-in-iOS/)
+- [GCD & Timer](http://www.acttos.org/2016/08/NSTimer-and-GCD-Timer-in-iOS/)
 
 
 
