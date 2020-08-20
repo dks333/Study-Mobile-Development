@@ -1,17 +1,18 @@
-# Study Mobile Development
+# KD Mobile Development Journey
 Welcome to my journey path
 
 ## Published Applications &nbsp; 🎉
-App Name | Description 
--------- | ----------  
-ARminder | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder </a>     
-MarKetUp | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(Real-time & Virtual Cash)</a> 
+ App Name   | Description                                                  
+ ---------- | ------------------------------------------------------------ 
+ Kasa Games | 1v1 Creative Games                                           
+ ARminder   | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder </a> 
+ MarKetUp   | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(Real-time & Virtual Cash)</a> 
 
 ## Projects 🛠
 Project Name | Description | Progress
--------- | ---------- | --------------
-ARelax | <a href="https://github.com/dks333/ARelax">Help you stretch your neck druing work or studying (AR)</a> |  &nbsp; &nbsp; &nbsp; ✅ 
-KDInstagram | <a href="https://github.com/dks333/KDInstagram">Clone **Instagram** App using three different design patterns (MVC, MVVM, VIPER)</a> | &nbsp; &nbsp; &nbsp; ✅ 
+-------- | ---------- | :------------:
+KDInstagram | <a href="https://github.com/dks333/KDInstagram">Clone **Instagram** App using three different design patterns (MVC, MVVM, VIPER)</a> | ✅ 
+ARelax | <a href="https://github.com/dks333/ARelax">Help you stretch your neck druing work or studying (AR)</a> |  ✅ 
 
 ## Design Patterns
 Content | Progress
@@ -23,6 +24,7 @@ MVP |
 [VIPER Architecture](Design&#32;Patterns/VIPER.md) | ✅ 
 
 ## iOS
+
 Type | Content | Progress
 :--- | :------ | :-------:
 Swift | UIKit | ✅ 
@@ -40,6 +42,17 @@ Third Party | <a href="http://airbnb.io/lottie/#/README">Lottie</a> | ✅
 Third Party | <a href="https://github.com/SDWebImage/SDWebImage">SDWebImage</a> |
 Third Party | <a href="https://github.com/texturegroup/texture/">Texture Framework (AsyncDisplayKit)</a> |
 
+### Cocoapods & Swift Package Manager (Case Study)
+
+| Name                                                         | Progress |
+| :----------------------------------------------------------- | :------: |
+| [Cocoapods & SPM](Swifty&#32;Notes/Cocoapods&#32;&&#32;Swift&#32;Package&#32;Manager.md) |    ✅     |
+| <a href="http://airbnb.io/lottie/#/README">Lottie</a>        |    ✅     |
+| <a href="https://github.com/SDWebImage/SDWebImage">SDWebImage</a> |          |
+| <a href="https://github.com/texturegroup/texture/">Texture Framework (AsyncDisplayKit)</a> |          |
+
+
+
 ## Android
 
 |  Type  | Content | Progress |
@@ -52,9 +65,12 @@ Third Party | <a href="https://github.com/texturegroup/texture/">Texture Framewo
 
 ##  Backend
 
-- [Database](/Backend/Database.md)
+- [Database: Firebase & MongoDB](/Backend/Database.md)
 
 ## UI/UX
+
+### Tools
+
 - Figma  &nbsp; &nbsp;  ✅
 - Adobe Illustrator  &nbsp; &nbsp;  ✅
 - Adobe Xd  &nbsp; &nbsp;  ✅
