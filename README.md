@@ -38,9 +38,6 @@ Swift | Core Graphics |
 SwiftUI | SwiftUI | 🔒 
 Reactive Programming | [RxSwift](Swifty&#32;Notes/RxSwift.md) | 🔒 
 Reactive Programming | Combine | 
-Third Party | <a href="http://airbnb.io/lottie/#/README">Lottie</a> | ✅ 
-Third Party | <a href="https://github.com/SDWebImage/SDWebImage">SDWebImage</a> |
-Third Party | <a href="https://github.com/texturegroup/texture/">Texture Framework (AsyncDisplayKit)</a> |
 
 ### Cocoapods & Swift Package Manager (Case Study)
 
