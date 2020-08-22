@@ -4,7 +4,7 @@ Welcome to my journey path
 ## Published Applications &nbsp; 🎉
  App Name   | Description                                                  
  ---------- | ------------------------------------------------------------ 
- Kasa Games | 1v1 Creative Games                                           
+ Kasa Games | [1v1 Creative Games](https://apps.apple.com/app/kasa-games/id1527215483)                                           
  ARminder   | <a href="https://apps.apple.com/tt/app/arminder/id1521786711">Augmented Reality Reminder </a> 
  MarKetUp   | <a href="https://github.com/dks333/MarKetUp">Stock Market Simulator(Real-time & Virtual Cash)</a> 
 
