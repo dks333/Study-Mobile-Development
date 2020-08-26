@@ -75,5 +75,5 @@ Reactive Programming | Combine |
 - [UnDraw](https://undraw.co/illustrations)
 
 ## Annotations
-✅  &nbsp; = I have either used or learned about
-🔒  &nbsp; = Studying currently
+- ✅  &nbsp; = I have either used or learned about
+- 🔒  &nbsp; = Studying currently
