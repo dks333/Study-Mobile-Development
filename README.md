@@ -74,7 +74,6 @@ Reactive Programming | Combine |
 ### Favorite Design List
 - [UnDraw](https://undraw.co/illustrations)
 
-
 ## Annotations
 ✅  &nbsp; = I have either used or learned about
 🔒  &nbsp; = Studying currently
