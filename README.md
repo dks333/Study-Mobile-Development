@@ -11,6 +11,7 @@ Welcome to my journey path
 ## Projects 🛠
 Project Name | Description | Progress
 -------- | ---------- | :------------:
+Tiktok-Clone | <a href="https://github.com/dks333/Tiktok-Clone">Clone **Tiktok** App</a> | 🔒
 KDInstagram | <a href="https://github.com/dks333/KDInstagram">Clone **Instagram** App using three different design patterns (MVC, MVVM, VIPER)</a> | ✅ 
 ARelax | <a href="https://github.com/dks333/ARelax">Help you stretch your neck druing work or studying (AR)</a> |  ✅ 
 
