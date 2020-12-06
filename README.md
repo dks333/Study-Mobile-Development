@@ -31,7 +31,7 @@ Type | Content | Progress
 Swift | UIKit | ✅ 
 Swift | ARKit (Image Tracking) | ✅ 
 Swift | [GCD & NSOperation](Swifty&#32;Notes/GCD&#32;&&#32;NSOperation.md) | ✅ 
-Swift | <a href="https://github.com/dks333/Study-Notes/blob/master/Swifty%20Notes/Automatic%20Reference%20Counting%20(ARC).md">Memory Management</a> | ✅ 
+Swift | <a href="https://github.com/dks333/Study-Notes/blob/master/Swifty%20Notes/Automatic%20Reference%20Counting%20(ARC).md">ARC</a><br>[Memory Management](Swifty&#32;Notes/Memory&#32;Management.md) | ✅ 
 Swift | [Networking](Swifty&#32;Notes/Network.md) | ✅ 
 Swift | Delegates & Segues | ✅ 
 Swift | Core Animation | ✅ 
